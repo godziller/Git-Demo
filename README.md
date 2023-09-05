@@ -6,3 +6,5 @@ this is the first file here.
 Here are the files in the website
 
 1. Website Contents
+
+thank you for viewing my website
